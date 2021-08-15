@@ -1,3 +1,6 @@
+Below is the README from the template creator. The template has been modified to align with my personal needs for the website. Index file and the images have been altered from the original.
+
+---
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
