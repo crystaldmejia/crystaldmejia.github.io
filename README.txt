@@ -1,4 +1,5 @@
-Below is the README from the template creator. The template has been modified to align with my personal needs for the website. Index file and the images have been altered from the original.
+Below is the README from the template creator. 
+The template has been modified to align with my personal needs for the website. Index file and the images have been altered from the original.
 
 ---
 Dimension by HTML5 UP
